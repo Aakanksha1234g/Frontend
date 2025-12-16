@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "@assets/*": ["src/assets/*"],
+      "@components/*": ["src/components/*"],
+      "@utils/*": ["src/utils/*"],
+      "@hooks/*": ["src/shared/hooks/*"],
+      "@routes/*": ["src/routes/*"],
+      "@context/*": ["src/context/*"],
+      "@validations/*": ["src/validations/*"],
+      "@api/*": ["src/api/*"],
+      "@products/*": ["src/products/*"],
+      "@shared/*": ["src/shared/*"],
+      "@global-pages/*": ["src/global-pages/*"],
+      "@ui/*": ["src/ui/*"]
+    }
+  },
+  "include": ["src"]
+}

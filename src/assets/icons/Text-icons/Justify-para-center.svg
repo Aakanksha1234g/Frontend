@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="justify_paragraph_center_align" data-name="justify paragraph center align">
+    <path class="cls-1" d="M323.81,0H36.19C16.2,0,0,16.2,0,36.19v287.62c0,19.99,16.2,36.19,36.19,36.19h287.62c19.99,0,36.19-16.2,36.19-36.19V36.19c0-19.99-16.2-36.19-36.19-36.19ZM258.99,268.71H101.01v-21.93h157.98v21.93ZM284.57,228.33H75.43v-21.94h209.14v21.94ZM284.57,187.94H75.43v-21.93h209.14v21.93ZM284.57,147.56H75.43v-21.94h209.14v21.94ZM284.57,107.17H75.43v-21.93h209.14v21.93Z"/>
+  </g>
+</svg>

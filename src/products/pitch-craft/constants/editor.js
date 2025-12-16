@@ -1,0 +1,1 @@
+export const maximum_history_length = 50
