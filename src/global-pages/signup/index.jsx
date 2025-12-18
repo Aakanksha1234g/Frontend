@@ -64,7 +64,7 @@ export default function SignupPage() {
     mutationKey: ['signup'],
     mutationFn: async ({ username, email, password }) =>
       await sendData({
-        endpoint: '/auth/signup',
+        endpoint: '/signup',
         method: 'POST',
         body: {
           user_name: username,

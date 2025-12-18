@@ -31,7 +31,7 @@ export default function LoginPage() {
     mutationKey: ['login'],
     mutationFn: async ({ email, password }) =>
       await sendData({
-        endpoint: '/auth/login',
+        endpoint: '/login',
         method: 'POST',
         body: {
           user_email: email,
