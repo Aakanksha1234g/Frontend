@@ -67,7 +67,7 @@ export default function LoginPage() {
   }
 
   return (
-    <div className="min-h-[100dvh] flex items-center justify-center bg-primary-indigo-50">
+    <div className="min-h-[100dvh] flex items-center justify-center bg-primary-indigo-50 text-black">
       
       {/* {showAlert && (
   <div className="fixed top-4 left-1/2 transform -translate-x-1/2 bg-red-100 border border-red-400 text-red-700 px-4 py-2 rounded shadow-lg z-50">

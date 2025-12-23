@@ -20,7 +20,7 @@ function InputField({
   autoComplete,
 }) {
   return (
-    <div>
+    <div className='text-black'>
       <label htmlFor={id} className="block text-sm font-medium text-gray-700">
         {label}
       </label>
@@ -105,7 +105,7 @@ export default function SignupPage() {
   }
 
   return (
-    <div className="min-h-[100dvh] flex items-center justify-center bg-primary-indigo-50">
+    <div className="min-h-[100dvh] flex items-center justify-center bg-primary-indigo-50 text-black">
       <div className="mx-auto w-full max-w-sm bg-white p-4 rounded-lg shadow-shadow-pop-up shadow-pop-up space-y-6">
         <div className="text-center">
           <h1 className="text-3xl font-semibold">Register</h1>
